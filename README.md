@@ -23,6 +23,10 @@ El Adversarial Machine Learning establece que existen 4 tipos de ataque que pued
 
 * [Adversarial Robustness Toolkit (ART)](https://adversarial-robustness-toolbox.readthedocs.io/en/latest): es una librería opensource de Adversarial Machine Learning que permite comprobar la robustez de los modelos de machine learning. Está desarrollada en Python e implementa ataques y defensas de extracción, inversión, envenenamiento y evasión. ART soporta los frameworks más populares: Tensorflow, Keras, PyTorch, MxNet, ScikitLearn, entre muchos otros). Además, no está limitada al uso de modelos que emplean imágenes como entrada, sino que soporta otros tipos de datos como audio, vídeo, datos tabulares, etc.
 
+  <p align="center">
+    <img alt="Logo de ART" src="./docs/art_logo.png" data-canonical-src="./docs/art_logo.png" width="30%" />
+  </p>
+
 ## Notebooks
 
 > Todos los notebooks se pueden ejecutar más rápidamente empleando una GPU. 
