@@ -59,7 +59,7 @@ La carpeta `notebooks` contiene 5 notebooks que cubren ataques de extracción, i
 * `poisoning.ipynb`: contiene cómo generar una puerta trasera en un modelo y cómo defenderse de ella.
 * `extraction.ipynb`: contiene cómo robar un modelo y aplicar defensas para minimizar el robo.
 
-El orden en el que se ejecuten los notebooks es irrelevante, pero es recomendable comenzar por Hola ART y evasión para familiarizarse con la librería.
+El orden en el que se ejecuten los notebooks es irrelevante, pero es recomendable comenzar por `art_install`.
 
 ## Importar notebooks en Colab
 
