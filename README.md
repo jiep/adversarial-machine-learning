@@ -14,10 +14,29 @@ Rama del machine learning que trata de averiguar los ataques que puede sufrir un
 
 El Adversarial Machine Learning establece que existen 4 tipos de ataque que pueden sufrir los modelos de ML.
 
+  <p align="center">
+    <img alt="Taxonomía" src="./docs/taxonomia.png" data-canonical-src="./docs/taxonomia.png" width="50%" />
+  </p>
+
 * Extracción (o robo) de modelo: permiten a un adversario robar los parámetros de un modelo de machine learning.
+  <p align="center">
+    <img alt="Ataques de extracción" src="./docs/extraccion.png" data-canonical-src="./docs/extraccion.png" width="50%" />
+  </p>
+  
 * Inversión: tienen como objetivo invertir el flujo de información de un modelo de machine learning. Permiten a un adversario tener un conocimiento del modelo que no pretendía ser compartido de forma explícita.
+  <p align="center">
+    <img alt="Ataques de inversión" src="./docs/inversion.png" data-canonical-src="./docs/inversion.png" width="50%" />
+  </p>
+
 * Envenenamiento: buscan corromper el conjunto de entrenamiento haciendo que un modelo de machine learning reduzca su precisión. Pueden añadir puertas traseras en el modelo.
+  <p align="center">
+    <img alt="Ataques de envenenamiento" src="./docs/envenenamiento.png" data-canonical-src="./docs/envenenamiento.png" width="50%" />
+  </p>
+  
 * Evasión: un adversario inserta una pequeña perturbación (en forma de ruido) en la entrada de un modelo de machine learning para que clasifique de forma incorrecta (ejemplo adversario).
+  <p align="center">
+    <img alt="Ataques de evasión" src="./docs/evasion.png" data-canonical-src="./docs/evasion.png" width="50%" />
+  </p>
 
 ## Herramientas empleadas
 
