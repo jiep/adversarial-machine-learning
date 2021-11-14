@@ -45,13 +45,19 @@ El Adversarial Machine Learning establece que existen 4 tipos de ataque que pued
   <p align="center">
     <img alt="Logo de ART" src="./docs/art_logo.png" data-canonical-src="./docs/art_logo.png" width="30%" />
   </p>
+  
+* [Counterfit](https://github.com/Azure/counterfit) es una CLI escrita en Python y desarrollada por Microsoft. Desarrollada para auditorías de seguridad sobre modelos de ML. Implementa algoritmos de evasión de caja negra. Se basa en los ataques de las herramientas ART y [TextAttack](https://github.com/QData/TextAttack).
+
+  <p align="center">
+    <img alt="Logo de Counterfit" src="./docs/counterfit_logo.png" data-canonical-src="./docs/counterfit_logo.png" width="40%" />
+  </p>
 
 ## Notebooks
 
 > Todos los notebooks se pueden ejecutar más rápidamente empleando una GPU. 
 > Se recomienda el uso de [Colab](https://colab.research.google.com), que permite emplear GPUs de forma gratuita y no tener que instalar nada en el equipo.
 
-La carpeta `notebooks` contiene 5 notebooks que cubren ataques de extracción, inversión, envenenamiento y evasión.
+La carpeta `notebooks` contiene 5 notebooks que cubren ataques de extracción, inversión, envenenamiento y evasión en ART.
 
 * `art_install.ipynb`: contiene la instalación de ART y verificar que todo funciona correctamente.
 * `evasion.ipynb`: contiene cómo realizar ejemplos adversarios (no dirigidos y no dirigidos) y cómo proteger los modelos frente a ellos.
@@ -60,6 +66,8 @@ La carpeta `notebooks` contiene 5 notebooks que cubren ataques de extracción, i
 * `extraction.ipynb`: contiene cómo robar un modelo y aplicar defensas para minimizar el robo.
 
 El orden en el que se ejecuten los notebooks es irrelevante, pero es recomendable comenzar por `art_install`.
+
+En el mismo directorio, se encuentra el fichero `counterfit.md`, que muestra cómo instalar `counterfit` en una máquina local y el uso básico de la CLI.  
 
 ## Importar notebooks en Colab
 
