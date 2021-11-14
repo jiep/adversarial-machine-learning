@@ -22,6 +22,21 @@
   pip install -r requirements.txt
   ```
 
+## Comandos básicos
+
+* `list targets`: lista modelos disponibles
+* `list frameworks`: lista frameworks de ataque disponibles
+* `load <framework>`: carga el framework especificado
+* `list attacks`: lista ataques del framework seleccionado
+* `interact <target>`: selecciona el modelo objetivo
+* `predict -i <ind>`: predicción sobre la entrada `ind`
+* `use <attack>`: selecciona ataque
+* `run`: ejecuta ataque
+* `scan`: ejecuta ataque
+* `show options`: muestra opciones del ataque
+* `set <param>=<value>`: cambia el valor de param a value
+* `save`: guarda los resultados en json
+
 ## Demo
 
 1. Ejecutar `counterfit`.
