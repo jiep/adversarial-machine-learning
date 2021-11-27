@@ -1,6 +1,6 @@
 # Introducción al Adversarial Machine Learning
 
-Taller de Adversarial Machine Learning para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
+[Taller de Adversarial Machine Learning](./docs/Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
 
   <p align="center">
     <img alt="XV Jornadas STIC CCN-CERT" src="./docs/xv-jornadas-ccn-cert.png" data-canonical-src="./docs/xv-jornadas-ccn-cert.png" width="100%" />
