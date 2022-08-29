@@ -1,9 +1,9 @@
 # Introducción al Adversarial Machine Learning
 
-[Taller de Adversarial Machine Learning](./docs/Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
+[Charla de Adversarial Machine Learning](TBD) para [DragonJAR 2022](https://www.dragonjarcon.org).
 
   <p align="center">
-    <img alt="XV Jornadas STIC CCN-CERT" src="./docs/xv-jornadas-ccn-cert.png" data-canonical-src="./docs/xv-jornadas-ccn-cert.png" width="100%" />
+    <img alt="XV Jornadas STIC CCN-CERT" src="./docs/dragonjar-2022.png" data-canonical-src="./docs/dragonjar-2022.png" width="100%" />
   </p>
 
 ## ¿Qué es el Adversarial Machine Learning?
@@ -86,3 +86,12 @@ En el mismo directorio, se encuentra el fichero `counterfit.md`, que muestra có
 ## Crédito
 
 Los notebooks de inversión y envenenamiento se basan en los [ejemplos y notebooks proporcionados]() por ART. 
+
+# Ediciones anteriores
+
+[Taller de Adversarial Machine Learning](./docs/Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
+
+  <p align="center">
+    <img alt="XV Jornadas STIC CCN-CERT" src="./docs/xv-jornadas-ccn-cert.png" data-canonical-src="./docs/xv-jornadas-ccn-cert.png" width="100%" />
+  </p>
+
