@@ -18,22 +18,22 @@ El Adversarial Machine Learning establece que existen 4 tipos de ataque que pued
     <img alt="Taxonomía" src="./img/attacks/taxonomia.png" data-canonical-src="./img/attacks/taxonomia.png" width="50%" />
   </p>
 
-* Extracción (o robo) de modelo: permiten a un adversario robar los parámetros de un modelo de machine learning.
+* **Extracción** (o robo) de modelo: permiten a un adversario robar los parámetros de un modelo de machine learning.
   <p align="center">
     <img alt="Ataques de extracción" src="./img/attacks/extraccion.png" data-canonical-src="./img/attacks/extraccion.png" width="50%" />
   </p>
   
-* Inversión: tienen como objetivo invertir el flujo de información de un modelo de machine learning. Permiten a un adversario tener un conocimiento del modelo que no pretendía ser compartido de forma explícita.
+* **Inversión**: tienen como objetivo invertir el flujo de información de un modelo de machine learning. Permiten a un adversario tener un conocimiento del modelo que no pretendía ser compartido de forma explícita.
   <p align="center">
     <img alt="Ataques de inversión" src="./img/attacks/inversion.png" data-canonical-src="./img/attacks/inversion.png" width="50%" />
   </p>
 
-* Envenenamiento: buscan corromper el conjunto de entrenamiento haciendo que un modelo de machine learning reduzca su precisión. Pueden añadir puertas traseras en el modelo.
+* **Envenenamiento**: buscan corromper el conjunto de entrenamiento haciendo que un modelo de machine learning reduzca su precisión. Pueden añadir puertas traseras en el modelo.
   <p align="center">
     <img alt="Ataques de envenenamiento" src="./img/attacks/envenenamiento.png" data-canonical-src="./img/attacks/envenenamiento.png" width="50%" />
   </p>
   
-* Evasión: un adversario inserta una pequeña perturbación (en forma de ruido) en la entrada de un modelo de machine learning para que clasifique de forma incorrecta (ejemplo adversario).
+* **Evasión**: un adversario inserta una pequeña perturbación (en forma de ruido) en la entrada de un modelo de machine learning para que clasifique de forma incorrecta (ejemplo adversario).
   <p align="center">
     <img alt="Ataques de evasión" src="./img/attacks/evasion.png" data-canonical-src="./img/attacks/evasion.png" width="50%" />
   </p>
@@ -93,7 +93,7 @@ Los notebooks de inversión y envenenamiento se basan en los [ejemplos](https://
 
 # Ediciones anteriores
 
-[Taller de Adversarial Machine Learning](./presentations/CCN-CERT_2021_Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
+* [Taller de Adversarial Machine Learning](./presentations/CCN-CERT_2021_Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
 
   <p align="center">
     <img alt="XV Jornadas STIC CCN-CERT" src="./img/cons/xv-jornadas-ccn-cert.png" data-canonical-src="./img/cons/xv-jornadas-ccn-cert.png" width="100%" />
