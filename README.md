@@ -8,7 +8,7 @@
 
 ## ¿Qué es el Adversarial Machine Learning?
 
-Rama del machine learning que trata de averiguar los ataques que puede sufrir un modelo en la presencia de un adversario malicioso y cómo protegerse de ellos.
+El [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning) es la rama del machine learning que trata de averiguar los ataques que puede sufrir un modelo en la presencia de un adversario malicioso y cómo protegerse de ellos.
 
 ### Taxonomía de ataques
 
