@@ -18,7 +18,7 @@ El Adversarial Machine Learning establece que existen 4 tipos de ataque que pued
     <img alt="Taxonomía" src="./img/attacks/taxonomia.png" data-canonical-src="./img/attacks/taxonomia.png" width="50%" />
   </p>
 
-* **Extracción** (o robo) de modelo: permiten a un adversario robar los parámetros de un modelo de machine learning.
+* **Extracción (o robo) de modelo**: permiten a un adversario robar los parámetros de un modelo de machine learning.
   <p align="center">
     <img alt="Ataques de extracción" src="./img/attacks/extraccion.png" data-canonical-src="./img/attacks/extraccion.png" width="50%" />
   </p>
