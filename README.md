@@ -3,7 +3,7 @@
 [Charla de Adversarial Machine Learning](TBD) para [DragonJAR 2022](https://www.dragonjarcon.org).
 
   <p align="center">
-    <img alt="XV Jornadas STIC CCN-CERT" src="./img/cons/dragonjar-2022.png" data-canonical-src="./img/cons/dragonjar-2022.png" width="100%" />
+    <img alt="DragonJAR 2022" src="./img/cons/dragonjar-2022.png" data-canonical-src="./img/cons/dragonjar-2022.png" width="100%" />
   </p>
 
 ## ¿Qué es el Adversarial Machine Learning?
@@ -93,9 +93,9 @@ Los notebooks de inversión y envenenamiento se basan en los [ejemplos](https://
 
 # Ediciones anteriores
 
-[Taller de Adversarial Machine Learning](./presentation/[CCN-CERT 2021] Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
+[Taller de Adversarial Machine Learning](./presentations/CCN-CERT_2021_Introducción_al_Adversarial_Machine_Learning.pdf)  para las [XV Jornadas STIC CCN-CERT](https://www.ccn-cert.cni.es/xvjornadas).
 
   <p align="center">
-    <img alt="DragonJAR 2022" src="./img/xv-jornadas-ccn-cert.png" data-canonical-src="./img/xv-jornadas-ccn-cert.png" width="100%" />
+    <img alt="XV Jornadas STIC CCN-CERT" src="./img/cons/xv-jornadas-ccn-cert.png" data-canonical-src="./img/cons/xv-jornadas-ccn-cert.png" width="100%" />
   </p>
 
