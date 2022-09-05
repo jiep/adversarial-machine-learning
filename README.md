@@ -1,6 +1,6 @@
 # Introducción al Adversarial Machine Learning
 
-[Charla de Adversarial Machine Learning](TBD) para [DragonJAR 2022](https://www.dragonjarcon.org).
+[Charla de Adversarial Machine Learning](./presentations/DragonJAR_Security_Conference_2022-Introducción_al_Adversarial_Machine_Learning.pdf) para [DragonJAR 2022](https://www.dragonjarcon.org).
 
   <p align="center">
     <img alt="DragonJAR 2022" src="./img/cons/dragonjar-2022.png" data-canonical-src="./img/cons/dragonjar-2022.png" width="100%" />
