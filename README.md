@@ -1,11 +1,5 @@
 # Introducción al Adversarial Machine Learning
 
-[Charla de Adversarial Machine Learning](./presentations/DragonJAR_Security_Conference_2022-Introducción_al_Adversarial_Machine_Learning.pdf) para [DragonJAR 2022](https://www.dragonjarcon.org).
-
-  <p align="center">
-    <img alt="DragonJAR 2022" src="./img/cons/dragonjar-2022.png" data-canonical-src="./img/cons/dragonjar-2022.png" width="100%" />
-  </p>
-
 ## ¿Qué es el Adversarial Machine Learning?
 
 El [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning) es la rama del machine learning que trata de averiguar los ataques que puede sufrir un modelo en la presencia de un adversario malicioso y cómo protegerse de ellos.
@@ -99,3 +93,8 @@ Los notebooks de inversión y envenenamiento se basan en los [ejemplos](https://
     <img alt="XV Jornadas STIC CCN-CERT" src="./img/cons/xv-jornadas-ccn-cert.png" data-canonical-src="./img/cons/xv-jornadas-ccn-cert.png" width="100%" />
   </p>
 
+* [Charla de Adversarial Machine Learning](./presentations/DragonJAR_Security_Conference_2022-Introducción_al_Adversarial_Machine_Learning.pdf) para [DragonJAR 2022](https://www.dragonjarcon.org).
+
+  <p align="center">
+    <img alt="DragonJAR 2022" src="./img/cons/dragonjar-2022.png" data-canonical-src="./img/cons/dragonjar-2022.png" width="100%" />
+  </p>
